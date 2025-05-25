@@ -1,0 +1,1 @@
+print("ya7ya my bestie")
