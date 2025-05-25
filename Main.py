@@ -4,7 +4,7 @@ from google import genai
 import pandas as pd
 import os
 
-client = genai.Client(api_key="AIzaSyB9L3RcJuQ-sof6khCzSvj__Zoli-Y1m-I")
+client = genai.Client(api_key="api_key")
 
 def select_csv_file():
     root = tk.Tk()
